@@ -212,10 +212,3 @@ casino/
 - Can be deployed on Vercel or Netlify
 - Update API base URL in `src/api/api.js`
 
-## 👨‍💻 Developer
-
-Built as part of the Full-Stack Intern Assessment for Sports/Casino Mini Platform.
-
-## 📄 License
-
-This project is created for assessment purposes.
